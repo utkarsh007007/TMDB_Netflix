@@ -1,4 +1,4 @@
-# Tvflix 🎞
+# [Tvflix](https://utkarsh007007.github.io/TMDB_Netflix/) 🎞
 
 ![image](https://github.com/utkarsh007007/TMDB_Netflix/blob/main/Screenshot_NetflixTMDB.png)
 
